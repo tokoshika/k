@@ -17,3 +17,7 @@ h1 {
 hr {
   margin-bottom: 1.5rem;
 }
+
+span {
+  color: rgb(51, 127, 127);
+}
