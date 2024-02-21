@@ -1,5 +1,5 @@
 body {
-    background-color: khaki;
+  background-color: khaki;
   margin: 0;
 }
 
@@ -8,4 +8,12 @@ p,
 .main {
   text-align: center;
   margin: 0;
+}
+
+h1 {
+  margin-top: 1rem;
+}
+
+hr {
+  margin-bottom: 2rem;
 }
